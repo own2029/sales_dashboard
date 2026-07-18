@@ -8,7 +8,7 @@
 - 📊 Aspiring Data Analyst
 - 💻 SQL | Power BI | Excel | Python
 - [Visit My Portfolio](https://datascienceportfol.io/ownmdsaifulislam)
-- <a href='https://datascienceportfol.io/ownmdsaifulislam' target='_blank'> Visti My Portfolio</a>
+
 
 # 📷 Dashboard Preview
 
