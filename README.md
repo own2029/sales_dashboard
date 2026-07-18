@@ -4,8 +4,7 @@
 
 ## Sales Dashboard
 
-> *(Insert dashboard screenshot here)*
-
+<img src="screenshots/dashboard.png" width="900">
 ## MTD Report
 
 > *(Insert screenshot here)*
