@@ -137,10 +137,10 @@ Compares current year performance with the same period from the previous year.
 ```
 Amazon-Sales-Dashboard/
 │
-├── Dashboard.pbix
-├── Dashboard.pdf
+├── Sales_Dashboard.pbix
+├── Sales_Dashboard.pdf
 ├── image_icons/
-├── Dataset/
+├── sales_data.xlsx
 ├── README.md
 ```
 
