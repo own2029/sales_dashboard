@@ -7,7 +7,7 @@
 - 🎓 MIS Graduate
 - 📊 Aspiring Data Analyst
 - 💻 SQL | Power BI | Excel | Python
-- [Visit My Portfolio](datascienceportfol.io/ownmdsaifulislam)
+- [Visit My Portfolio](https://datascienceportfol.io/ownmdsaifulislam)
 
 # 📷 Dashboard Preview
 
