@@ -8,11 +8,11 @@
 
 ## MTD Report
 
-> *(Insert screenshot here)*
+<img src="screenshots/mtd.jpg" width="900">
 
 ## Same Period Last Year Report
 
-> *(Insert screenshot here)*
+<img src="screenshots/same_period_last_year.jpg" width="900">
 
 ## 📌 Project Overview
 
