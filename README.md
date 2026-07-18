@@ -1,5 +1,14 @@
 # 📊 Amazon Sales Dashboard | Power BI
 
+# 👨‍💻 Author
+
+**Md. Saiful Islam**
+
+- 🎓 MIS Graduate
+- 📊 Aspiring Data Analyst
+- 💻 SQL | Power BI | Excel | Python
+- <a href='datascienceportfol.io/ownmdsaifulislam'>Visit My Portfolio</a>
+
 # 📷 Dashboard Preview
 
 ## Sales Dashboard
@@ -156,14 +165,5 @@ Amazon-Sales-Dashboard/
 - Executive-level KPI reporting
 - Supports business decision-making
 
----
-
-# 👨‍💻 Author
-
-**Md. Saiful Islam**
-
-- 🎓 MIS Graduate
-- 📊 Aspiring Data Analyst
-- 💻 SQL | Power BI | Excel | Python
 
 ---
